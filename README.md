@@ -24,6 +24,8 @@ Dernière version 2.7.18 du 23/01/2026
 7) Dans la fenêtre qui s'affiche:
   - indiquer la valeur <b>"0x0"</b> à la place de celle indiquée.
   - Sélectionner le firmware à implanter
+  - Cliquer sur <b>"Program"</b> dans la fenêtre.
+Une barre de progression vous indique le chargement du firmaware et un message final vous indique que tout s'est bien passé.
 
 8) Une fois la programmation terminée, appuyer sur le bouton <b>"RST"</b> du module pour le rebooter.
 
