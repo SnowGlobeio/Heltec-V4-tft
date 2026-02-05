@@ -1,16 +1,16 @@
 # Heltec-V4-tft
 Meshtastic firmware
 ## Version
-2.7.18 du 23/01/2026
+2.7.19 du 05/02/2026
 
 ## Info sur ce Firmware
 Je récupère toujours la dernière version du Github de Meshtastic pour la partie Firmware.
-Idem pour la partie MUI. j'ai fait en sorte que cela point vers le github de meshtastic afin d'avoir toujours les dernières mises à jour.
-Donc je ne vous garanti pas la plus grande stabilité mais vous avez forcément les dernières modification et mises à jours.
+Idem pour la partie MUI. j'ai fait en sorte que cela pointe vers le github de meshtastic afin d'avoir toujours les dernières mises à jour.
+Donc je ne vous garanti pas la plus grande stabilité mais vous avez forcément les dernières modifications et mises à jours.
 
 ## Procédure de mise à jour
 
-1) Utliser un navigatreur web de type Chrome, Edge, Brave ...
+1) Utliser un navigateur web de type Chrome, Edge, Brave ...
 
 2) Se rendre sur le site : https://www.espboards.dev/tools/program/ 
    (Il y en a d'autre, mais celui-ci fonctionne très bien)
