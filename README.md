@@ -1,7 +1,7 @@
 # Heltec-V4-tft
 Meshtastic firmware
 ## Version
-2.7.20u 13/02/2026
+2.7.20 du 13/02/2026
 
 ## Info sur ce Firmware
 Je récupère toujours la dernière version du Github de Meshtastic pour la partie Firmware.
