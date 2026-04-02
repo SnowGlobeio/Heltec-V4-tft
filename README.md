@@ -8,6 +8,13 @@ Je récupère toujours la dernière version du Github de Meshtastic pour la part
 Idem pour la partie MUI. j'ai fait en sorte que cela pointe vers le github de meshtastic afin d'avoir toujours les dernières mises à jour.
 Donc je ne vous garanti pas la plus grande stabilité mais vous avez forcément les dernières modifications et mises à jours.
 
+## liens vers les codes surces utilisés
+Pour la partie Meshtastic:
+https://github.com/meshtastic/firmware
+Pour la partie interface MUI:
+https://github.com/meshtastic/device-ui
+Ces codes sources sont sous licence GPL-3.0
+
 ## Procédure de mise à jour
 
 1) Utliser un navigateur web de type Chrome, Edge, Brave ...
